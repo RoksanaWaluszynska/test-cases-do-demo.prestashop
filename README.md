@@ -1,4 +1,4 @@
-# test-cases-do-demo.prestashop
+# test-cases-demo.prestashop
 Tworzenie przypadków testowych do strony https://demo.prestashop.com/#/en/front -
 
 link do przypadków testowych 
